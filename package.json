@@ -1,0 +1,23 @@
+{
+  "name": "entregable-1",
+  "version": "1.0.0",
+  "description": "Primer entregable de la clase NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alez6/entregable_1.git"
+  },
+  "author": "Alejandro alejandropgomez@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alez6/entregable_1/issues"
+  },
+  "homepage": "https://github.com/alez6/entregable_1#readme"
+}

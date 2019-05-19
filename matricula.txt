@@ -1,0 +1,3 @@
+el estudiante nana
+con cedula 9
+se ha matriculado en el curso llamadoFilosofia hidraulicacon una duracion de 30 y un valor de 100000 pesos.
