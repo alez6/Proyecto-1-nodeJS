@@ -63,6 +63,9 @@ if (encontrado != undefined && nombre != undefined && cc != undefined){
 
 crearArchivo (encontrado, nombre, cc);
 }
+else if(encontrado==undefined && IID > 0){
+	console.log('El ID no existe, porfavor verifiquelo.');
+}
 else {
 	var i = 0;
 
